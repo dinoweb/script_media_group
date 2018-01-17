@@ -4,6 +4,9 @@
   "description": "Nuxt.js project",
   "author": "Lorenzo Caldara <lorenzo@dinoweb.net>",
   "private": true,
+  "engines": {
+      "node": ">= 8.0.0"
+  },
   "scripts": {
     "dev": "PORT=3333 nuxt",
     "build": "nuxt build",
@@ -23,5 +26,5 @@
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^1.7.1",
     "eslint-plugin-vue": "^4.0.0"
-  }
+    }
 }
