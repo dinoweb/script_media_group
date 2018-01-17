@@ -5,7 +5,7 @@
                 <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
                     <div class="navbar-brand">
                         <a class="navbar-item" href="/">
-                            <img class="imglogo" src="http://www.fucinadeltag.it/sites/54fef9525918adb08f0000cb/theme/images/logo_fucinadeltag_trasparente.png?e39b76d9dbab31a8625eafb74abd8faa" alt="Burocraziafacile">
+                            <img class="imglogo" src="https://prismic-io.s3.amazonaws.com/fucinadeltag/918e2d2129a1c2275024da951119933c716a6a02_logo_fucinadeltag_trasparente.png" alt="Burocraziafacile">
                         </a>
 
                         <button class="button navbar-burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
