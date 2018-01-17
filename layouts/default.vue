@@ -81,7 +81,7 @@
                             Scrivici un messaggio e ti risponderemo il prima possibile.
                         </p>
                         <section>
-                            <form accept-charset="UTF-8" name="richiesta_preventivo" action="/grazie" netlify>
+                            <form accept-charset="UTF-8" action="https://formkeep.com/f/5fb420fec4c8" method="POST">
                                 <div class="field">
                                     <label class="label is-small">Email:</label>
                                     <p class="control">
