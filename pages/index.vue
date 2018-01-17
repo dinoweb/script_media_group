@@ -130,7 +130,6 @@
                     </div>
                     <div class="column">
                         <span class="title is-5">Il nostro lavoro</span>
-                        <p>
                             <ol>
                                 <li>Studio di fattibilitàe strategia</li>
                                 <li>Fase di test - MVP</li>
@@ -148,9 +147,6 @@
                                 <li>Server e gestione struttura tecnica</li>
                                 <li>Conversion optimization (CRO)</li>
                             </ol>
-
-                        </p>
-
                     </div>
 
                 </div>
@@ -173,7 +169,6 @@
                         <span class="title is-5">Il nostro lavoro</span>
                         <br>
                         <br>
-                        <p>
                             <ol>
                                 <li>Studio di fattibilitàe strategia</li>
                                 <li>Fase di test - MVP</li>
@@ -193,7 +188,6 @@
                                 <li>Conversion optimization (CRO)</li>
                             </ol>
 
-                        </p>
                     </div>
 
                 </div>
@@ -216,7 +210,6 @@
                         <span class="title is-5">Il nostro lavoro</span>
                         <br>
                         <br>
-                        <p>
                             <ol>
                                 <li>Studio di fattibilitàe strategia</li>
                                 <li>Fase di test - MVP</li>
@@ -229,7 +222,6 @@
                                 <li>Conversion optimization (CRO)</li>
                             </ol>
 
-                        </p>
                     </div>
 
                 </div>
