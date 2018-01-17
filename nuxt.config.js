@@ -1,6 +1,6 @@
 module.exports = {
   head: {
-        title: 'script_media_group',
+        title: 'Fucina del Tag',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
