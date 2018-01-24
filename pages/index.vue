@@ -112,7 +112,7 @@
 
 
         </div>
-        
+
         <hr>
         <div class="lavori">
             <div class="parIntro subtitle is-5">Alcuni esempi del nostro lavoro</div>
@@ -126,7 +126,7 @@
                 <div class="columns">
                     <div class="column">
                         <picture>
-                            <img src="https://prismic-io.s3.amazonaws.com/fucinadeltag/21b3eee1609754a0138db3afa22e3e1c4cb9b40d_philips---defibrillatore-semiautomatico---puoi-salvare-una-vita-1.png" alt="" />
+                            <img src="https://prismic-io.s3.amazonaws.com/fucinadeltag/7541adeffcff0baceb7e1f6b7ee58478082ecfb3_screencapture-defibrillatori-online-1516825724204.png" alt="" />
                         </picture>
                     </div>
                     <div class="column">
