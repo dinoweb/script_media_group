@@ -32,7 +32,7 @@
                                 Promuovi la tua azienda online
                             </h2>
                             <p>
-                                <a href="#form" class="button is-warning">Richieid un Preventivo Gratuito!</a>
+                                <a href="#form" class="button is-warning">Richiedi un Preventivo Gratuito!</a>
                             </p>
                         </div>
                     </div>

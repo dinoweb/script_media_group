@@ -10,7 +10,7 @@
                             Il mio prodotto è vendibile online? Come? Quanto costa? Cosa mi serve? Su quali media comunicare?
                         </p>
                         <p>
-                            Vi aiutiamo a capire e realizzare la giusta strategia per lo sviluppo del vostro buisness online.
+                            Vi aiutiamo a capire e realizzare la giusta strategia per lo sviluppo del vostro business online.
                         </p>
                     </div>
                 </div>
@@ -57,10 +57,10 @@
                     <div class="content">
                         <h2 class="title">Social media Marketing</h2>
                         <p class="is-italic">
-                            La mia fan page ha pochi fan, come faccio ad aumentarli? Su FB ci sono tutti i miei competitor, devo esserci anche io? Twitter, Pinterest, Instagram? Devo essereci?
+                            La mia fan page ha pochi fan, come faccio ad aumentarli? Su Facebook ci sono tutti i miei competitor, devo esserci anche io? Twitter, Pinterest, Instagram? Devo esserci?
                         </p>
                         <p>
-                            Crediamo che prima di tutto si debbano conoscere i propri potenziali clienti, sapere quali bisongi hanno e attraverso quali linguaggi parlare con loro.
+                            Crediamo che prima di tutto si debbano conoscere i propri potenziali clienti, sapere quali bisogni hanno e attraverso quali linguaggi parlare con loro.
                         </p>
                         <p>
                             Non è sempre scontato doverci essere e con quali contenuti parlare ai vostri potenziali clienti. Noi sapremo esservi di aiuto per capire.
@@ -102,7 +102,7 @@
                             Devo sviluppare una APP, ve ne occupate? Cerco un programmatore che mi aiuti ad integrare il mio CRM con il sito di Ecommerce e la campagna di Lead Generation, potete farlo?
                         </p>
                         <p>
-                            Abbiamo un'esperienza decennale nello sviluppo del sofware e dell'integrazione tra diverse piattaforme. Possiamo affiancarvi in tutte le vostre esigenze.
+                            Abbiamo un'esperienza decennale nello sviluppo del software e dell'integrazione tra diverse piattaforme. Possiamo affiancarvi in tutte le vostre esigenze.
                         </p>
 
                     </div>
@@ -132,12 +132,12 @@
                     <div class="column">
                         <span class="title is-5">Il nostro lavoro</span>
                             <ol>
-                                <li>Studio di fattibilitàe strategia</li>
+                                <li>Studio di fattibilità e strategia</li>
                                 <li>Fase di test - MVP</li>
                                 <li>Web Analitycs e Misurazione KPI</li>
                                 <li>Gestione campagne SEM</li>
                                 <li>Gestione campagne Display Advertising - Remarketing</li>
-                                <li>Gestione fan page FaceBook</li>
+                                <li>Gestione fanpage Facebook</li>
                                 <li>CRM per gestione Lead e ordini</li>
                                 <li>Personale di Backoffice gestione leads e vendite</li>
                                 <li>Gestione ordini e pagamenti con carta di credito</li>
@@ -171,12 +171,12 @@
                         <br>
                         <br>
                             <ol>
-                                <li>Studio di fattibilitàe strategia</li>
+                                <li>Studio di fattibilità e strategia</li>
                                 <li>Fase di test - MVP</li>
                                 <li>Web Analitycs e Misurazione KPI</li>
                                 <li>Gestione campagne SEM</li>
                                 <li>Gestione campagne Display Advertising - Remarketing</li>
-                                <li>Gestione fan page FaceBook</li>
+                                <li>Gestione fanpage Facebook</li>
                                 <li>CRM per gestione Lead e ordini</li>
                                 <li>Personale di Backoffice gestione leads e vendite</li>
                                 <li>Gestione ordini e pagamenti con carta di credito</li>
