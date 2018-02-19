@@ -212,7 +212,7 @@
                         <br>
                         <br>
                             <ol>
-                                <li>Studio di fattibilitàe strategia</li>
+                                <li>Studio di fattibilità e strategia</li>
                                 <li>Fase di test - MVP</li>
                                 <li>Web Analitycs e Misurazione KPI</li>
                                 <li>Gestione campagne SEM</li>
