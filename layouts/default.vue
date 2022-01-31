@@ -105,9 +105,9 @@
 
                         <div class="has-text-centered">
                             <strong>Fucina del Tag</strong>
-                                <br> Via Cislaghi 21
-                                <br>20128 Milano
-                                <br>P.IVA 03201900960
+                                <br> V.le Monza, 259
+                                <br>20126 Milano
+                                <br>P.IVA 01234020525
 
 
                         </div>
