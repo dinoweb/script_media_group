@@ -107,7 +107,7 @@
                             <strong>Fucina del Tag</strong>
                                 <br> V.le Monza, 259
                                 <br>20126 Milano
-                                <br>P.IVA 01234020525
+                                <br>P.IVA 12077140965
 
                         </div>
                         <br>
