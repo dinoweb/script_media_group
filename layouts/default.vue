@@ -109,7 +109,6 @@
                                 <br>20126 Milano
                                 <br>P.IVA 01234020525
 
-
                         </div>
                         <br>
                         <div>
