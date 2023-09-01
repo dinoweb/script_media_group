@@ -1,30 +1,30 @@
 {
-  "name": "script_media_group",
-  "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "Lorenzo Caldara <lorenzo@dinoweb.net>",
-  "private": true,
-  "engines": {
-    "node": ">= 8.0.0"
-  },
-  "scripts": {
-    "dev": "PORT=3333 nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "bulma": "^0.6.2",
-    "node-sass": "^4.14.1",
-    "nuxt": "^1.4.5",
-    "nuxt-sass-resources-loader": "^1.2.0",
-    "sass-loader": "^6.0.7"
-  },
-  "devDependencies": {
-    "babel-eslint": "^8.2.6",
-    "eslint": "^4.19.1",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.7.1"
-  }
+    "name": "script_media_group",
+    "version": "1.0.0",
+    "description": "Nuxt.js project",
+    "author": "Lorenzo Caldara <lorenzo@dinoweb.net>",
+    "private": true,
+    "engines": {
+        "node": "20.1.x"
+    },
+    "scripts": {
+        "dev": "PORT=3333 nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "bulma": "^0.6.2",
+        "node-sass": "^4.14.1",
+        "nuxt": "^1.4.5",
+        "nuxt-sass-resources-loader": "^1.2.0",
+        "sass-loader": "^6.0.7"
+    },
+    "devDependencies": {
+        "babel-eslint": "^8.2.6",
+        "eslint": "^4.19.1",
+        "eslint-friendly-formatter": "^3.0.0",
+        "eslint-loader": "^1.7.1",
+        "eslint-plugin-vue": "^4.7.1"
+    }
 }
