@@ -5,7 +5,7 @@
     "author": "Lorenzo Caldara <lorenzo@dinoweb.net>",
     "private": true,
     "engines": {
-        "node": "20.1.x"
+        "node": "14.x"
     },
     "scripts": {
         "dev": "PORT=3333 nuxt",
