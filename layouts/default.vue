@@ -2,10 +2,10 @@
     <div class="default">
         <div class="container">
             <div class="content">
-                <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+                <nav class="navbar" role="navigation" aria-label="main navigation">
                     <div class="navbar-brand">
                         <a class="navbar-item" href="/">
-                            <img class="imglogo" src="https://prismic-io.s3.amazonaws.com/fucinadeltag/918e2d2129a1c2275024da951119933c716a6a02_logo_fucinadeltag_trasparente.png" alt="Burocraziafacile">
+                            <img class="imglogo" src="/images/logo.png" alt="Fucina del Tag srl">
                         </a>
 
                         <button class="button navbar-burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
@@ -29,17 +29,14 @@
                                 Fucina del Tag
                             </h1>
                             <h2 class="subtitle">
-                                Promuovi la tua azienda online
+                                Editori al servizio degli editori
                             </h2>
-                            <p>
-                                <a href="#form" class="button is-warning">Richiedi un Preventivo Gratuito!</a>
-                            </p>
                         </div>
                     </div>
                 </section>
                 <hr>
 
-                <nuxt/>
+                <nuxt />
 
 
             </div>
@@ -52,26 +49,26 @@
                         <p class="title is-4">
                             Perché scegliere Fucina del Tag
                         </p>
-                            <ol>
-                                <li>
-                                    <strong>Lavoriamo per raggiungere i VOSTRI obiettivi</strong>, non i NOSTRI!
-                                </li>
-                                <li>
-                                    Se quello che volete da noi non vi porta risultati, <strong>vi consigliamo di NON farlo</strong>
-                                </li>
-                                <li>
-                                    <strong>Curiamo internamente tutti gli aspetti</strong> di una campagna marketing
-                                </li>
-                                <li>
-                                    <strong>Siamo agili, veloci ed efficaci</strong>. Programmatore, copy, art director, digital advertiser... abbiamo tutte le professionalità al nostro interno.
-                                </li>
-                                <li>
-                                    <strong>Non devi preoccuparti di gestire diversi fornitori. Gestiamo noi tutta la filiera</strong>, dalla produzione della creatività, alla gestione dei canali pubblicitari, alla tecnologia.
-                                </li>
-                                <li>
-                                    <strong>Ci prendiamo le nostre responsabilità</strong>. Quando sbagliamo sappiamo ammetterlo e agire per rimediare.
-                                </li>
-                            </ol>
+                        <ol>
+                            <li>
+                                <strong>Lavoriamo per raggiungere i VOSTRI obiettivi</strong>, non i NOSTRI!
+                            </li>
+                            <li>
+                                Se quello che volete da noi non vi porta risultati, <strong>vi consigliamo di NON farlo</strong>
+                            </li>
+                            <li>
+                                <strong>Curiamo internamente tutti gli aspetti</strong> di una campagna marketing
+                            </li>
+                            <li>
+                                <strong>Siamo agili, veloci ed efficaci</strong>. Programmatore, copy, art director, digital advertiser... abbiamo tutte le professionalità al nostro interno.
+                            </li>
+                            <li>
+                                <strong>Non devi preoccuparti di gestire diversi fornitori. Gestiamo noi tutta la filiera</strong>, dalla produzione della creatività, alla gestione dei canali pubblicitari, alla tecnologia.
+                            </li>
+                            <li>
+                                <strong>Ci prendiamo le nostre responsabilità</strong>. Quando sbagliamo sappiamo ammetterlo e agire per rimediare.
+                            </li>
+                        </ol>
                     </div>
                     <div id="form" class="column">
                         <p class="title is-4">
@@ -105,14 +102,14 @@
 
                         <div class="has-text-centered">
                             <strong>Fucina del Tag</strong>
-                                <br> V.le Monza, 259
-                                <br>20126 Milano
-                                <br>P.IVA 12077140965
+                            <br> V.le Monza, 259
+                            <br>20126 Milano
+                            <br>P.IVA 12077140965
 
                         </div>
                         <br>
                         <div>
-                                <a href="//www.iubenda.com/privacy-policy/369660" class="iubenda-white no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a>
+                            <a href="//www.iubenda.com/privacy-policy/369660" class="iubenda-white no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a>
                         </div>
                     </div>
 
@@ -122,5 +119,4 @@
     </div>
 </template>
 
-<style>
-</style>
+<style></style>
