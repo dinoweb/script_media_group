@@ -100,7 +100,7 @@
                     <div class="column has-text-centered">
 
                         <div class="has-text-centered">
-                            <strong>Fucina del Tag</strong>
+                            <strong>Fucina del Tag srl</strong>
                             <br> V.le Monza, 259
                             <br>20126 Milano
                             <br>P.IVA 12077140965
