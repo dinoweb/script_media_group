@@ -26,14 +26,14 @@
                         <p>
                             <span class="title is-5">Web Marketing</span>
                             <br>
-                            Gestito in outsourcing da Nexxy SA<br>
+                            Gestito da Nexxy SA<br>
                             <a href="http://www.nexxy.ch" target="_blank">www.nexxy.ch</a>
                         </p>
 
                         <p>
                             <span class="title is-5">Sviluppo tecnico</span>
                             <br>
-                            Gestito in outsourcing da Nexxy SA<br>
+                            Gestito da Nexxy SA<br>
                             <a href="http://www.nexxy.ch" target="_blank">www.nexxy.ch</a>
                         </p>
 
@@ -157,8 +157,6 @@
 
     .title {
         padding-bottom: 1rem;
-        border-bottom: 0.01rem solid;
-        border-color: #e3e3e3;
     }
 }
 
