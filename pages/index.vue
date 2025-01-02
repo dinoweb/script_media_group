@@ -1,8 +1,7 @@
 <template>
     <div class="contenuto">
-
         <div class="chiSiamo">
-            <div class="parIntro subtitle is-5">I nostri servizi</div>
+            <div class="parIntro subtitle is-5">Cosa Facciamo</div>
             <div class="columns is-multiline">
                 <div class="column is-half">
                     <div class="content">
@@ -81,13 +80,139 @@
 
                     </div>
                 </div>
+                <div class="column is-half">
+                    <div class="content">
+                        <h2 class="title">Content Marketing</h2>
+                        <p class="is-italic">
+                            Devo avere un blog? Cosa scrivo? Quali contenuti postare sulla mia fan page? Che tono devo usare?
+                        </p>
+                        <p>
+                            Vi aiutiamo ad individuare i temi importanti per le persone a cui vi rivolgete. Ci occupiamo di realizzare piani editoriali dettagliati con i contenuti più adatti alle esigenze dei vostri clienti.
+                        </p>
+                        <p>
+                            I contenuti devono essere interessanti e arricchire chi li legge. Se non si ha nulla da dire, meglio fare silenzio.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="column is-half">
+                    <div class="content">
+                        <h2 class="title">Sviluppo Software - Ecommerce</h2>
+                        <p class="is-italic">
+                            Devo sviluppare una APP, ve ne occupate? Cerco un programmatore che mi aiuti ad integrare il mio CRM con il sito di Ecommerce e la campagna di Lead Generation, potete farlo?
+                        </p>
+                        <p>
+                            Abbiamo un'esperienza ventennale nello sviluppo del software e dell'integrazione tra diverse piattaforme. Possiamo affiancarvi in tutte le vostre esigenze.
+                        </p>
+
+                    </div>
+                </div>
 
             </div>
 
 
         </div>
-
         <hr>
+        <div class="lavori">
+            <div class="parIntro subtitle is-5">Alcuni progetti</div>
+            <div class="content">
+                <h2 class="title is-4">www.defibrillatori-online.com - Vendita Defibrillatori Philips</h2>
+                <p>
+                    <strong>Cliente</strong>: Iredeem SRL (Dealer Philips)<br>
+                    <strong>Obiettivo del Cliente</strong>: Vendita defibrillatori
+                </p>
+                <div class="columns">
+                    <div class="column">
+                        <picture>
+                            <img src="/images/philips.png" alt="" />
+                        </picture>
+                    </div>
+                    <div class="column">
+                        <span class="is-5">Il nostro lavoro</span>
+                        <br>
+                        <ol>
+                            <li>Studio di fattibilità e strategia</li>
+                            <li>Fase di test - MVP</li>
+                            <li>Web Analitycs e Misurazione KPI</li>
+                            <li>Gestione campagne SEM</li>
+                            <li>Gestione campagne Display Advertising - Remarketing</li>
+                            <li>Gestione fanpage Facebook</li>
+                            <li>CRM per gestione Lead e ordini</li>
+                            <li>Personale di Backoffice gestione leads e vendite</li>
+                            <li>Gestione ordini e pagamenti con carta di credito</li>
+                            <li>Gestione Call Center</li>
+                            <li>Scrittura contenuti - Copy</li>
+                            <li>Creatività e Progetto grafico</li>
+                            <li>E-Commerce Consumabili</li>
+                            <li>Server e gestione struttura tecnica</li>
+                            <li>Conversion optimization (CRO)</li>
+                        </ol>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="content">
+                <h2 class="title is-4">www.burocraziafacile.it - Content marketing</h2>
+                <p>
+                    <strong>Cliente</strong>: Pratiche.it S.r.l.<br>
+                    <strong>Obiettivo del Cliente</strong>: Vendita pratiche pubbliche online
+                </p>
+                <div class="columns">
+                    <div class="column">
+                        <picture>
+                            <img src="/images/burocrazia.png" alt="" />
+                        </picture>
+                    </div>
+                    <div class="column">
+                        <span class="is-5">Il nostro lavoro</span>
+                        <br>
+                        <ol>
+                            <li>Studio di fattibilità e strategia</li>
+                            <li>Fase di test - MVP</li>
+                            <li>Web Analitycs e Misurazione KPI</li>
+                            <li>Gestione campagne SEM</li>
+                            <li>Gestione campagne Display Advertising - Remarketing</li>
+                            <li>Gestione fanpage Facebook</li>
+                            <li>Scrittura contenuti - Copy</li>
+                            <li>Creatività e Progetto grafico</li>
+                            <li>Server e gestione struttura tecnica</li>
+                            <li>Conversion optimization (CRO)</li>
+                        </ol>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="content">
+                <h2 class="title is-4">www.orafinanza.it - Testata Giornalistica Online</h2>
+                <p>
+                    Siamo gli <strong>Editori</strong> del sito <a href="http://www.orafinanza.it" target="_blank">www.orafinanza.it</a><br>
+                    Testata giornalistica online di informazione economica e finanziaria.
+                </p>
+                <div class="columns">
+                    <div class="column">
+                        <picture>
+                            <img src="/images/orafinanza_it.png" alt="" />
+                        </picture>
+                    </div>
+                    <div class="column">
+                        <span class="is-5">Il nostro lavoro</span>
+                        <br>
+                        <ol>
+                            <li>Direzione e supervisione del progetto</li>
+                            <li>Coordinamento della redazione</li>
+                            <li>Scrittura articoli e contenuti</li>
+                            <li>Rapporti con inserzionisti</li>
+                        </ol>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
 
     </div>
 </template>
