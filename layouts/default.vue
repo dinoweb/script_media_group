@@ -29,7 +29,7 @@
                                 Fucina del Tag
                             </h1>
                             <h2 class="subtitle">
-                                Editori al servizio degli editori
+                                Web Marketing e Sviluppo Tecnico
                             </h2>
                         </div>
                     </div>

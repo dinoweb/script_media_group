@@ -1,48 +1,5 @@
 <template>
     <div class="contenuto">
-        <div class="lavori">
-
-            <div class="content">
-                <h2 class="title is-4">www.orafinanza.it - Testata Giornalistica Online</h2>
-                <p>
-                    Siamo gli <strong>Editori</strong> del sito <a href="http://www.orafinanza.it" target="_blank">www.orafinanza.it</a><br>
-                    Testata giornalistica online di informazione economica e finanziaria.
-                </p>
-                <div class="columns">
-                    <div class="column">
-                        <picture>
-                            <img src="/images/orafinanza_it.png" alt="" />
-                        </picture>
-                    </div>
-                    <div class="column">
-                        <span class="is-5">Il nostro lavoro</span>
-                        <br>
-                        <ol>
-                            <li>Direzione e supervisione del progetto</li>
-                            <li>Coordinamento della redazione</li>
-                            <li>Scrittura articoli e contenuti</li>
-                            <li>Rapporti con inserzionisti</li>
-                        </ol>
-                        <p>
-                            <span class="title is-5">Web Marketing</span>
-                            <br>
-                            Gestito da Nexxy SA<br>
-                            <a href="http://www.nexxy.ch" target="_blank">www.nexxy.ch</a>
-                        </p>
-
-                        <p>
-                            <span class="title is-5">Sviluppo tecnico</span>
-                            <br>
-                            Gestito da Nexxy SA<br>
-                            <a href="http://www.nexxy.ch" target="_blank">www.nexxy.ch</a>
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
 
         <div class="chiSiamo">
             <div class="parIntro subtitle is-5">I nostri servizi per l'editoria online</div>
