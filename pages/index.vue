@@ -2,7 +2,7 @@
     <div class="contenuto">
 
         <div class="chiSiamo">
-            <div class="parIntro subtitle is-5">I nostri servizi per l'editoria online</div>
+            <div class="parIntro subtitle is-5">I nostri servizi</div>
             <div class="columns is-multiline">
                 <div class="column is-half">
                     <div class="content">
