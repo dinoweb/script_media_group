@@ -206,6 +206,13 @@
                             <li>Coordinamento della redazione</li>
                             <li>Scrittura articoli e contenuti</li>
                             <li>Rapporti con inserzionisti</li>
+                            <li>Web Analitycs e Misurazione KPI</li>
+                            <li>Gestione campagne SEM</li>
+                            <li>Gestione campagne Display Advertising - Remarketing</li>
+                            <li>Gestione fanpage Facebook</li>
+                            <li>Creatività e Progetto grafico</li>
+                            <li>Server e gestione struttura tecnica</li>
+                            <li>Conversion optimization (CRO)</li>
                         </ol>
                     </div>
 
